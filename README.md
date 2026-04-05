@@ -9,7 +9,7 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
 ---
 
 ## 🛠️ Tools & Tech
-- **Languages:** C, Python, JavaScript
+- **Languages:** Python, JavaScript, C, Java
 - **Web & Backend:** Node.js, HTML, CSS
 - **Tools:** Git, GitHub, MacOS CLI
 
