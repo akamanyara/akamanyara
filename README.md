@@ -3,7 +3,7 @@
 I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kraków. I focus on building robust full-stack applications and solving complex problems. 
 
 -  **Currently building:** Full-Stack Web Applications (The Odin Project)
--  **Currently learning:** Harvard's CS50 (mastering CS fundamentals)
+-  **Currently learning:** The Odin Project (Full Stack course)
 -  **Side Quests:** Google Courses for Cloud Infrastructure & Cybersecurity Basics
 
 ---
@@ -12,7 +12,7 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
 - **Languages:** Python 3, JavaScript, C, Java
 - **Web & Backend:** Node.js, HTML, CSS, Flask, Jinja2
 - **Databases:** SQLite3, MySql
-- **Tools:** Git, GitHub, MacOS CLI, AI: Gemini. Claude
+- **Tools:** Git, GitHub, MacOS CLI, AI: Gemini, Claude
 
 --- 
 
