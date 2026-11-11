@@ -1,18 +1,18 @@
 ## Hi there, I'm Jacob 👋
 
-I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kraków. I focus on building robust full-stack applications and solving complex problems. 
+I'm a 1st-year Master's Degree in Applied Computer Science student at Jagiellonian University in Kraków. I focus on building robust full-stack applications and solving complex problems.
 
 -  **Currently building:** Full-Stack Web Applications (The Odin Project)
--  **Currently learning:** The Odin Project (Full Stack course)
--  **Side Quests:** Google Courses for Cloud Infrastructure & Cybersecurity Basics
+-  **Currently learning:** The Odin Project (Full Stack course, Node.js Path)
+-  **Side Quests:** Uni class: Machine Learning Operations (including Docker)
 
 ---
 
 ## 🛠️ Tools & Tech
-- **Languages:** Python 3, JavaScript, C, Java
-- **Web & Backend:** Node.js, HTML, CSS, Flask, Jinja2
+- **Languages:** JavaScript, Python 3, HTML5, CSS3
+- **Web & Backend:** Flask, REST APIs, DOM Manipulation, Jinja2
 - **Databases:** SQLite3, MySql
-- **Tools:** Git, GitHub, Docker, MacOS CLI, AI: Gemini, Claude
+- **Tools:** Git, GitHub, Docker, MacOS CLI, AI: Gemini, Claude, VS Code, Figma
 
 --- 
 
