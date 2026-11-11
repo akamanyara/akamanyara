@@ -12,7 +12,7 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
 - **Languages:** Python 3, JavaScript, C, Java
 - **Web & Backend:** Node.js, HTML, CSS, Flask, Jinja2
 - **Databases:** SQLite3, MySql
-- **Tools:** Git, GitHub, MacOS CLI, AI: Gemini, Claude
+- **Tools:** Git, GitHub, Docker, MacOS CLI, AI: Gemini, Claude
 
 --- 
 
